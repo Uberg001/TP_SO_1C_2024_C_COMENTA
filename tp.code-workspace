@@ -1,0 +1,33 @@
+{
+	"settings": {
+		"debug.onTaskErrors": "abort",
+		"files.associations": {
+			"*.h": "c",
+			"cstdlib": "c",
+			"typeinfo": "c"
+		},
+		"C_Cpp.errorSquiggles": "disabled",
+	},
+	"folders": [
+		{
+			"name": "kernel",
+			"path": "kernel"
+		},
+		{
+			"name": "cpu",
+			"path": "cpu"
+		},
+		{
+			"name": "memoria",
+			"path": "memoria"
+		},
+		{
+			"name": "entradasalida",
+			"path": "entradasalida"
+		},
+		{
+			"name": "utils",
+			"path": "utils"
+		}
+	]
+}
